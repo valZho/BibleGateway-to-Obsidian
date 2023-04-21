@@ -38,7 +38,7 @@ displaySetting $ARG_VERBOSE "Show download/processing progress in terminal"
 
 echo $LIGHT_DIVIDER
 echo "  ${TEXT_BOLD}PROCEED WITH THESE SETTINGS?${TEXT_RESET}"
-echo "  To change settings, edit ${TEXT_CYAN}settings.sh${TEXT_RESET} file."
+echo "  To change settings, edit the ${TEXT_CYAN}settings.sh${TEXT_RESET} file."
 echo $LIGHT_DIVIDER
 echo "  ${TEXT_YELLOW}⚠️  By proceeding, you confirm that you have checked and"
 echo "  understand the copyright/license conditions for the"

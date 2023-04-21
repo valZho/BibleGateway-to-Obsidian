@@ -14,5 +14,5 @@ TEXT_GRAY=$(tput setaf 8)
 
 TEXT_BOLD=$(tput bold)
 
-HEAVY_DIVIDER="$TEXT_GRAY$TEXT_BOLD=====================================================================$TEXT_RESET"
-LIGHT_DIVIDER="$TEXT_GRAY$TEXT_BOLD---------------------------------------------------------------------$TEXT_RESET"
+HEAVY_DIVIDER="$TEXT_GRAY$TEXT_BOLD========================================================================$TEXT_RESET"
+LIGHT_DIVIDER="$TEXT_GRAY$TEXT_BOLD------------------------------------------------------------------------$TEXT_RESET"

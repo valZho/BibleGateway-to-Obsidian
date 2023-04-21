@@ -49,7 +49,7 @@ show_progress_bar()
 
   # Create the progress bar display
   progress_bar="${TEXT_BOLD}${title} —— ${TEXT_RESET}"
-  progress_bar+=" Chapter "
+  progress_bar+="Chapter "
   progress_bar+="${TEXT_BOLD}${completed}${TEXT_RESET}"
   progress_bar+="  of "
   progress_bar+="${TEXT_BOLD}${total} —— ${TEXT_RESET}|"
