@@ -26,12 +26,12 @@ ARG_BOLD_WORDS=true
 ARG_FOOTNOTES=true
 
 # Include editorial headers?
-ARG_EDITORIAL_HEADERS=true
+ARG_EDITORIAL_HEADERS=false
 
 # Include H1 headers in output?
 # Obsidian already shows the file name as a header
 # so adding a header can be redundant for display
-ARG_FILE_HEADERS=true
+ARG_FILE_HEADERS=false
 
 # Make the inline navigation compliant with the Breadcrumbs plugin?
 ARG_BREADCRUMBS_PLUGIN=false
